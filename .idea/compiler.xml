@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="global-e-exerscise-service-server" />
-        <module name="global-e-exerscise-service-contract" />
-        <module name="global-e-exerscise-service-sdk" />
+        <module name="global-e-math-service-server" />
+        <module name="global-e-math-service-contract" />
         <module name="mend-graph-service-contract" />
+        <module name="global-e-math-service-sdk" />
         <module name="mend-graph-service-sdk" />
         <module name="mend-graph-service-server" />
       </profile>
@@ -17,9 +17,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="global-e-exerscise-service-contract" options="-parameters" />
-      <module name="global-e-exerscise-service-sdk" options="-parameters" />
-      <module name="global-e-exerscise-service-server" options="-parameters" />
+      <module name="global-e-math-service-contract" options="-parameters" />
+      <module name="global-e-math-service-sdk" options="-parameters" />
+      <module name="global-e-math-service-server" options="-parameters" />
       <module name="mend-graph-service-contract" options="-parameters" />
       <module name="mend-graph-service-sdk" options="-parameters" />
       <module name="mend-graph-service-server" options="-parameters" />

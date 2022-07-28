@@ -1,0 +1,10 @@
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/configuration/ServerConfiguration.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/controller/PrimeController.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/Application.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/service/PrimeService.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/exception/BaseException.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/controller/HealthCheckController.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/controller/BaseController.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/exception/ErrorResponse.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/service/CallRateValidator.java
+/Users/lshepeto/src/leonidsh119/global-e-math-service/global-e-math-service-server/src/main/java/com/globale/math/server/exception/GeneralException.java

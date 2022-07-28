@@ -4,17 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.global-e.exerscise</groupId>
-    <artifactId>global-e-exerscise-service</artifactId>
+    <groupId>com.global-e.math</groupId>
+    <artifactId>global-e-math-service</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Exerscise Service</name>
-    <description>Parent POM for Exerscise Service</description>
+    <name>Math Service</name>
+    <description>Parent POM for Math Service</description>
 
     <modules>
-        <module>global-e-exerscise-service-contract</module>
-        <module>global-e-exerscise-service-sdk</module>
-        <module>global-e-exerscise-service-server</module>
+        <module>global-e-math-service-contract</module>
+        <module>global-e-math-service-sdk</module>
+        <module>global-e-math-service-server</module>
     </modules>
 
     <parent>
@@ -38,12 +38,12 @@
             <!--Project dependencies-->
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>global-e-exerscise-service-contract</artifactId>
+                <artifactId>global-e-math-service-contract</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>global-e-exerscise-service-sdk</artifactId>
+                <artifactId>global-e-math-service-sdk</artifactId>
                 <version>${project.version}</version>
             </dependency>
 

@@ -3,21 +3,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>global-e-exerscise-service-sdk</artifactId>
+    <artifactId>global-e-math-service-sdk</artifactId>
     <packaging>jar</packaging>
-    <name>Exerscise Service SDK</name>
-    <description>A Java SDK for the Exerscise Service</description>
+    <name>Math Service SDK</name>
+    <description>A Java SDK for the Math Service</description>
 
     <parent>
-        <groupId>com.global-e.exerscise</groupId>
-        <artifactId>global-e-exerscise-service</artifactId>
+        <groupId>com.global-e.math</groupId>
+        <artifactId>global-e-math-service</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>global-e-exerscise-service-contract</artifactId>
+            <artifactId>global-e-math-service-contract</artifactId>
         </dependency>
 
         <!--Spring boot dependencies-->

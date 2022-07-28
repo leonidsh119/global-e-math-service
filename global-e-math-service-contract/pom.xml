@@ -2,14 +2,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>global-e-exerscise-service-contract</artifactId>
+    <artifactId>global-e-math-service-contract</artifactId>
     <packaging>jar</packaging>
-    <name>Exerscise Service Contracts</name>
-    <description>A Contract between the Exerscise Server and Client (SDK)</description>
+    <name>Math Service Contracts</name>
+    <description>A Contract between the Math Server and Client (SDK)</description>
 
     <parent>
-        <groupId>com.global-e.exerscise</groupId>
-        <artifactId>global-e-exerscise-service</artifactId>
+        <groupId>com.global-e.math</groupId>
+        <artifactId>global-e-math-service</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
